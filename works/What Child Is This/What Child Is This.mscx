@@ -59,6 +59,14 @@
           </System>
         <System>
           </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
         <System>
           </System>
         </Page>
@@ -275,6 +283,9 @@ Arranged by Gary Sheppard</text>
           </Rest>
         <Chord>
           <durationType>quarter</durationType>
+          <Lyrics>
+            <text>What</text>
+            </Lyrics>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -288,6 +299,9 @@ Arranged by Gary Sheppard</text>
       <Measure number="5">
         <Chord>
           <durationType>half</durationType>
+          <Lyrics>
+            <text>Child</text>
+            </Lyrics>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -295,6 +309,9 @@ Arranged by Gary Sheppard</text>
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Lyrics>
+            <text>is</text>
+            </Lyrics>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -305,6 +322,10 @@ Arranged by Gary Sheppard</text>
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
+          <Lyrics>
+            <ticks>720</ticks>
+            <text>this</text>
+            </Lyrics>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -319,6 +340,9 @@ Arranged by Gary Sheppard</text>
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Lyrics>
+            <text>who,</text>
+            </Lyrics>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -328,6 +352,9 @@ Arranged by Gary Sheppard</text>
       <Measure number="7">
         <Chord>
           <durationType>half</durationType>
+          <Lyrics>
+            <text>laid</text>
+            </Lyrics>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -335,6 +362,9 @@ Arranged by Gary Sheppard</text>
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Lyrics>
+            <text>to</text>
+            </Lyrics>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -345,6 +375,10 @@ Arranged by Gary Sheppard</text>
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
+          <Lyrics>
+            <ticks>720</ticks>
+            <text>rest</text>
+            </Lyrics>
           <Note>
             <pitch>62</pitch>
             <tpc>16</tpc>
@@ -359,6 +393,9 @@ Arranged by Gary Sheppard</text>
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Lyrics>
+            <text>on</text>
+            </Lyrics>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -368,6 +405,10 @@ Arranged by Gary Sheppard</text>
       <Measure number="9">
         <Chord>
           <durationType>half</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>Ma</text>
+            </Lyrics>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -375,6 +416,10 @@ Arranged by Gary Sheppard</text>
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text>ry's</text>
+            </Lyrics>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -385,6 +430,10 @@ Arranged by Gary Sheppard</text>
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
+          <Lyrics>
+            <ticks>720</ticks>
+            <text>lap</text>
+            </Lyrics>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -402,6 +451,9 @@ Arranged by Gary Sheppard</text>
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Lyrics>
+            <text>is</text>
+            </Lyrics>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -411,6 +463,10 @@ Arranged by Gary Sheppard</text>
       <Measure number="11">
         <Chord>
           <durationType>half</durationType>
+          <Lyrics>
+            <syllabic>middle</syllabic>
+            <text>slee</text>
+            </Lyrics>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -429,14 +485,25 @@ Arranged by Gary Sheppard</text>
         </Measure>
       <Measure number="12">
         <Chord>
-          <durationType>half</durationType>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text>ping?</text>
+            </Lyrics>
           <Note>
             <pitch>59</pitch>
             <tpc>19</tpc>
             </Note>
           </Chord>
+        <Rest>
+          <durationType>eighth</durationType>
+          </Rest>
         <Chord>
           <durationType>quarter</durationType>
+          <Lyrics>
+            <text>Whom</text>
+            </Lyrics>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -446,6 +513,10 @@ Arranged by Gary Sheppard</text>
       <Measure number="13">
         <Chord>
           <durationType>half</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>an</text>
+            </Lyrics>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -453,6 +524,10 @@ Arranged by Gary Sheppard</text>
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text>gels</text>
+            </Lyrics>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -463,6 +538,10 @@ Arranged by Gary Sheppard</text>
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
+          <Lyrics>
+            <ticks>720</ticks>
+            <text>greet</text>
+            </Lyrics>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -477,6 +556,9 @@ Arranged by Gary Sheppard</text>
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Lyrics>
+            <text>with</text>
+            </Lyrics>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -486,6 +568,10 @@ Arranged by Gary Sheppard</text>
       <Measure number="15">
         <Chord>
           <durationType>half</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>an</text>
+            </Lyrics>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -493,6 +579,10 @@ Arranged by Gary Sheppard</text>
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text>thems</text>
+            </Lyrics>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -503,6 +593,10 @@ Arranged by Gary Sheppard</text>
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
+          <Lyrics>
+            <ticks>720</ticks>
+            <text>sweet</text>
+            </Lyrics>
           <Note>
             <pitch>62</pitch>
             <tpc>16</tpc>
@@ -517,6 +611,9 @@ Arranged by Gary Sheppard</text>
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Lyrics>
+            <text>while</text>
+            </Lyrics>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -527,6 +624,10 @@ Arranged by Gary Sheppard</text>
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
+          <Lyrics>
+            <ticks>720</ticks>
+            <text>shep</text>
+            </Lyrics>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -541,6 +642,9 @@ Arranged by Gary Sheppard</text>
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Lyrics>
+            <text>herds</text>
+            </Lyrics>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -551,6 +655,10 @@ Arranged by Gary Sheppard</text>
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
+          <Lyrics>
+            <ticks>720</ticks>
+            <text>watch</text>
+            </Lyrics>
           <Note>
             <Accidental>
               <subtype>sharp</subtype>
@@ -571,6 +679,9 @@ Arranged by Gary Sheppard</text>
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Lyrics>
+            <text>are</text>
+            </Lyrics>
           <Note>
             <pitch>63</pitch>
             <tpc>23</tpc>
@@ -581,6 +692,10 @@ Arranged by Gary Sheppard</text>
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>kee</text>
+            </Lyrics>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -589,13 +704,19 @@ Arranged by Gary Sheppard</text>
         </Measure>
       <Measure number="20">
         <Chord>
-          <dots>1</dots>
           <durationType>half</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text>ping?</text>
+            </Lyrics>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
         <BarLine>
           <subtype>double</subtype>
           <span>1</span>
@@ -603,17 +724,22 @@ Arranged by Gary Sheppard</text>
         </Measure>
       <Measure number="21">
         <Chord>
-          <dots>1</dots>
           <durationType>half</durationType>
+          <Lyrics>
+            <text>This,</text>
+            </Lyrics>
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <Rest>
+          <offset x="0" y="2"/>
+          <durationType>quarter</durationType>
+          </Rest>
         <tick>28800</tick>
         <Chord>
           <track>1</track>
-          <dots>1</dots>
           <durationType>half</durationType>
           <Note>
             <track>1</track>
@@ -626,6 +752,10 @@ Arranged by Gary Sheppard</text>
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
+          <Lyrics>
+            <ticks>720</ticks>
+            <text>this</text>
+            </Lyrics>
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
@@ -640,6 +770,9 @@ Arranged by Gary Sheppard</text>
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Lyrics>
+            <text>is</text>
+            </Lyrics>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -678,6 +811,9 @@ Arranged by Gary Sheppard</text>
       <Measure number="23">
         <Chord>
           <durationType>half</durationType>
+          <Lyrics>
+            <text>Christ</text>
+            </Lyrics>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -685,6 +821,9 @@ Arranged by Gary Sheppard</text>
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Lyrics>
+            <text>the</text>
+            </Lyrics>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -714,6 +853,10 @@ Arranged by Gary Sheppard</text>
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
+          <Lyrics>
+            <ticks>720</ticks>
+            <text>King,</text>
+            </Lyrics>
           <Note>
             <pitch>62</pitch>
             <tpc>16</tpc>
@@ -728,6 +871,9 @@ Arranged by Gary Sheppard</text>
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Lyrics>
+            <text>whom</text>
+            </Lyrics>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -766,6 +912,10 @@ Arranged by Gary Sheppard</text>
       <Measure number="25">
         <Chord>
           <durationType>half</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>shep</text>
+            </Lyrics>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -773,6 +923,10 @@ Arranged by Gary Sheppard</text>
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text>herds</text>
+            </Lyrics>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -806,6 +960,10 @@ Arranged by Gary Sheppard</text>
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
+          <Lyrics>
+            <ticks>720</ticks>
+            <text>guard</text>
+            </Lyrics>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -823,6 +981,9 @@ Arranged by Gary Sheppard</text>
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Lyrics>
+            <text>and</text>
+            </Lyrics>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -832,17 +993,39 @@ Arranged by Gary Sheppard</text>
         <Chord>
           <track>1</track>
           <dots>1</dots>
-          <durationType>half</durationType>
+          <durationType>quarter</durationType>
           <Note>
             <track>1</track>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>1</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>1</track>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>1</track>
+          <durationType>quarter</durationType>
+          <Note>
+            <track>1</track>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="27">
         <Chord>
           <durationType>half</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>an</text>
+            </Lyrics>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -850,6 +1033,10 @@ Arranged by Gary Sheppard</text>
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text>gels</text>
+            </Lyrics>
           <Note>
             <pitch>63</pitch>
             <tpc>23</tpc>
@@ -858,7 +1045,6 @@ Arranged by Gary Sheppard</text>
         <tick>37440</tick>
         <Chord>
           <track>1</track>
-          <dots>1</dots>
           <durationType>half</durationType>
           <Note>
             <track>1</track>
@@ -866,9 +1052,15 @@ Arranged by Gary Sheppard</text>
               <subtype>sharp</subtype>
               <track>1</track>
               </Accidental>
-            <Tie id="3">
-              <track>1</track>
-              </Tie>
+            <pitch>63</pitch>
+            <tpc>23</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>1</track>
+          <durationType>quarter</durationType>
+          <Note>
+            <track>1</track>
             <pitch>63</pitch>
             <tpc>23</tpc>
             </Note>
@@ -876,67 +1068,82 @@ Arranged by Gary Sheppard</text>
         </Measure>
       <Measure number="28">
         <Chord>
-          <dots>1</dots>
           <durationType>half</durationType>
+          <Lyrics>
+            <text>sing;</text>
+            </Lyrics>
           <Note>
             <pitch>59</pitch>
             <tpc>19</tpc>
             </Note>
           </Chord>
+        <Rest>
+          <offset x="0" y="2"/>
+          <durationType>quarter</durationType>
+          </Rest>
         <tick>38880</tick>
         <Chord>
           <track>1</track>
-          <dots>1</dots>
           <durationType>half</durationType>
           <Note>
             <track>1</track>
-            <endSpanner id="3"/>
-            <pitch>63</pitch>
-            <tpc>23</tpc>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="29">
         <Chord>
+          <dots>1</dots>
           <durationType>half</durationType>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>quarter</durationType>
-          <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <tick>40320</tick>
         <Chord>
           <track>1</track>
           <durationType>half</durationType>
-          <StemDirection>down</StemDirection>
+          <Lyrics>
+            <ticks>960</ticks>
+            <track>1</track>
+            <text>Haste,</text>
+            </Lyrics>
           <Note>
             <track>1</track>
-            <pitch>59</pitch>
-            <tpc>19</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
           <track>1</track>
           <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
           <Note>
             <track>1</track>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="30">
         <Chord>
           <dots>1</dots>
-          <durationType>half</durationType>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -946,8 +1153,77 @@ Arranged by Gary Sheppard</text>
         <Chord>
           <track>1</track>
           <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <ticks>720</ticks>
+            <track>1</track>
+            <text>haste,</text>
+            </Lyrics>
+          <Note>
+            <track>1</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>1</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>1</track>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>1</track>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <track>1</track>
+            <text>to</text>
+            </Lyrics>
+          <Note>
+            <track>1</track>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="31">
+        <Chord>
           <durationType>half</durationType>
-          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <tick>43200</tick>
+        <Chord>
+          <track>1</track>
+          <durationType>half</durationType>
+          <Lyrics>
+            <track>1</track>
+            <text>bring</text>
+            </Lyrics>
+          <Note>
+            <track>1</track>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>1</track>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <track>1</track>
+            <text>him</text>
+            </Lyrics>
           <Note>
             <track>1</track>
             <pitch>62</pitch>
@@ -955,73 +1231,127 @@ Arranged by Gary Sheppard</text>
             </Note>
           </Chord>
         </Measure>
-      <Measure number="31">
-        <Chord>
-          <dots>1</dots>
-          <durationType>half</durationType>
-          <Note>
-            <Tie id="4">
-              </Tie>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <tick>43200</tick>
-        <Chord>
-          <track>1</track>
-          <dots>1</dots>
-          <durationType>half</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <track>1</track>
-            <Tie id="5">
-              <track>1</track>
-              <up>2</up>
-              </Tie>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        </Measure>
       <Measure number="32">
         <Chord>
           <dots>1</dots>
-          <durationType>half</durationType>
+          <durationType>quarter</durationType>
           <Note>
-            <endSpanner id="4"/>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <tick>44640</tick>
         <Chord>
           <track>1</track>
           <dots>1</dots>
-          <durationType>half</durationType>
-          <StemDirection>down</StemDirection>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <ticks>720</ticks>
+            <track>1</track>
+            <text>laud,</text>
+            </Lyrics>
           <Note>
             <track>1</track>
-            <endSpanner id="5"/>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>1</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>1</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>1</track>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <track>1</track>
+            <text>the</text>
+            </Lyrics>
+          <Note>
+            <track>1</track>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="33">
         <Chord>
           <dots>1</dots>
-          <durationType>half</durationType>
+          <durationType>quarter</durationType>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <tick>46080</tick>
         <Chord>
           <track>1</track>
           <dots>1</dots>
-          <durationType>half</durationType>
-          <StemDirection>down</StemDirection>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <ticks>720</ticks>
+            <track>1</track>
+            <text>Babe,</text>
+            </Lyrics>
+          <Note>
+            <track>1</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>1</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>1</track>
+            <Accidental>
+              <subtype>sharp</subtype>
+              <track>1</track>
+              </Accidental>
+            <pitch>63</pitch>
+            <tpc>23</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>1</track>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <track>1</track>
+            <text>the</text>
+            </Lyrics>
           <Note>
             <track>1</track>
             <pitch>64</pitch>
@@ -1032,24 +1362,66 @@ Arranged by Gary Sheppard</text>
       <Measure number="34">
         <Chord>
           <dots>1</dots>
-          <durationType>half</durationType>
+          <durationType>quarter</durationType>
           <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>63</pitch>
+            <tpc>23</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>63</pitch>
+            <tpc>23</tpc>
             </Note>
           </Chord>
         <tick>47520</tick>
         <Chord>
           <track>1</track>
           <dots>1</dots>
-          <durationType>half</durationType>
-          <StemDirection>down</StemDirection>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <ticks>720</ticks>
+            <track>1</track>
+            <text>Son</text>
+            </Lyrics>
           <Note>
             <track>1</track>
-            <Accidental>
-              <subtype>sharp</subtype>
-              <track>1</track>
-              </Accidental>
+            <pitch>63</pitch>
+            <tpc>23</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>1</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>1</track>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>1</track>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <track>1</track>
+            <text>of</text>
+            </Lyrics>
+          <Note>
+            <track>1</track>
             <pitch>63</pitch>
             <tpc>23</tpc>
             </Note>
@@ -1064,26 +1436,77 @@ Arranged by Gary Sheppard</text>
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <tick>48960</tick>
+        <Chord>
+          <track>1</track>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <track>1</track>
+            <text>Ma</text>
+            </Lyrics>
+          <Note>
+            <track>1</track>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="36">
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
           <Note>
+            <Tie id="3">
+              </Tie>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
+        <tick>50400</tick>
+        <Chord>
+          <track>1</track>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Lyrics>
+            <track>1</track>
+            <text>ry.</text>
+            </Lyrics>
+          <Note>
+            <track>1</track>
+            <Tie id="4">
+              <track>1</track>
+              </Tie>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="37">
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <endSpanner id="3"/>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
         <Rest>
-          <durationType>measure</durationType>
-          <duration z="3" n="4"/>
+          <offset x="0" y="2"/>
+          <durationType>half</durationType>
           </Rest>
+        <tick>51840</tick>
+        <Chord>
+          <track>1</track>
+          <durationType>quarter</durationType>
+          <Note>
+            <track>1</track>
+            <endSpanner id="4"/>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="38">
         <Rest>
@@ -1111,19 +1534,138 @@ Arranged by Gary Sheppard</text>
         </Measure>
       <Measure number="42">
         <Rest>
-          <durationType>measure</durationType>
-          <duration z="3" n="4"/>
+          <offset x="0" y="2"/>
+          <durationType>half</durationType>
           </Rest>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text>Why</text>
+            </Lyrics>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
+        <tick>60000</tick>
+        <Chord>
+          <track>1</track>
+          <durationType>quarter</durationType>
+          <Note>
+            <track>1</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="43">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="3" n="4"/>
-          </Rest>
+        <Chord>
+          <durationType>half</durationType>
+          <Lyrics>
+            <text>lies</text>
+            </Lyrics>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text>he</text>
+            </Lyrics>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <tick>60480</tick>
+        <Chord>
+          <track>1</track>
+          <durationType>half</durationType>
+          <Note>
+            <track>1</track>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>1</track>
+          <durationType>quarter</durationType>
+          <Note>
+            <track>1</track>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="44">
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <ticks>720</ticks>
+            <text>in</text>
+            </Lyrics>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text>such</text>
+            </Lyrics>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
           </BarLine>
+        <tick>61920</tick>
+        <Chord>
+          <track>1</track>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Note>
+            <track>1</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>1</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>1</track>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>1</track>
+          <durationType>quarter</durationType>
+          <Note>
+            <track>1</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
         </Measure>
       </Staff>
     <Staff id="2">
@@ -1157,6 +1699,10 @@ Arranged by Gary Sheppard</text>
         <Rest>
           <durationType>half</durationType>
           </Rest>
+        <StaffText>
+          <pos x="-7.45843" y="-3.32196"/>
+          <text>unison</text>
+          </StaffText>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -1313,12 +1859,16 @@ Arranged by Gary Sheppard</text>
         </Measure>
       <Measure number="12">
         <Chord>
-          <durationType>half</durationType>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
           <Note>
             <pitch>47</pitch>
             <tpc>19</tpc>
             </Note>
           </Chord>
+        <Rest>
+          <durationType>eighth</durationType>
+          </Rest>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -1473,21 +2023,26 @@ Arranged by Gary Sheppard</text>
         </Measure>
       <Measure number="20">
         <Chord>
-          <dots>1</dots>
           <durationType>half</durationType>
           <Note>
             <pitch>52</pitch>
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
         <BarLine>
           <subtype>double</subtype>
           <span>1</span>
           </BarLine>
         </Measure>
       <Measure number="21">
+        <StaffText>
+          <pos x="-8.8145" y="-3.86439"/>
+          <text>div.</text>
+          </StaffText>
         <Chord>
-          <dots>1</dots>
           <durationType>half</durationType>
           <StemDirection>up</StemDirection>
           <Note>
@@ -1495,10 +2050,13 @@ Arranged by Gary Sheppard</text>
             <tpc>19</tpc>
             </Note>
           </Chord>
+        <Rest>
+          <offset x="0" y="2"/>
+          <durationType>quarter</durationType>
+          </Rest>
         <tick>28800</tick>
         <Chord>
           <track>5</track>
-          <dots>1</dots>
           <durationType>half</durationType>
           <Note>
             <track>5</track>
@@ -1510,18 +2068,39 @@ Arranged by Gary Sheppard</text>
       <Measure number="22">
         <Chord>
           <dots>1</dots>
-          <durationType>half</durationType>
-          <StemDirection>up</StemDirection>
+          <durationType>quarter</durationType>
           <Note>
             <pitch>59</pitch>
             <tpc>19</tpc>
             </Note>
           </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
         <tick>30240</tick>
         <Chord>
           <track>5</track>
-          <dots>1</dots>
           <durationType>half</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>quarter</durationType>
           <Note>
             <track>5</track>
             <pitch>55</pitch>
@@ -1531,13 +2110,15 @@ Arranged by Gary Sheppard</text>
         </Measure>
       <Measure number="23">
         <Chord>
-          <dots>1</dots>
           <durationType>half</durationType>
-          <StemDirection>up</StemDirection>
           <Note>
-            <Tie id="6">
-              <up>1</up>
-              </Tie>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
             <pitch>57</pitch>
             <tpc>17</tpc>
             </Note>
@@ -1545,13 +2126,18 @@ Arranged by Gary Sheppard</text>
         <tick>31680</tick>
         <Chord>
           <track>5</track>
-          <dots>1</dots>
           <durationType>half</durationType>
           <Note>
             <track>5</track>
-            <Tie id="7">
-              <track>5</track>
-              </Tie>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>quarter</durationType>
+          <Note>
+            <track>5</track>
             <pitch>50</pitch>
             <tpc>16</tpc>
             </Note>
@@ -1560,10 +2146,22 @@ Arranged by Gary Sheppard</text>
       <Measure number="24">
         <Chord>
           <dots>1</dots>
-          <durationType>half</durationType>
-          <StemDirection>up</StemDirection>
+          <durationType>quarter</durationType>
           <Note>
-            <endSpanner id="6"/>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
             <pitch>57</pitch>
             <tpc>17</tpc>
             </Note>
@@ -1571,11 +2169,18 @@ Arranged by Gary Sheppard</text>
         <tick>33120</tick>
         <Chord>
           <track>5</track>
-          <dots>1</dots>
           <durationType>half</durationType>
           <Note>
             <track>5</track>
-            <endSpanner id="7"/>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>quarter</durationType>
+          <Note>
+            <track>5</track>
             <pitch>50</pitch>
             <tpc>16</tpc>
             </Note>
@@ -1583,13 +2188,15 @@ Arranged by Gary Sheppard</text>
         </Measure>
       <Measure number="25">
         <Chord>
-          <dots>1</dots>
           <durationType>half</durationType>
-          <StemDirection>up</StemDirection>
           <Note>
-            <Tie id="8">
-              <up>1</up>
-              </Tie>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
             <pitch>55</pitch>
             <tpc>15</tpc>
             </Note>
@@ -1597,13 +2204,18 @@ Arranged by Gary Sheppard</text>
         <tick>34560</tick>
         <Chord>
           <track>5</track>
-          <dots>1</dots>
           <durationType>half</durationType>
           <Note>
             <track>5</track>
-            <Tie id="9">
-              <track>5</track>
-              </Tie>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>quarter</durationType>
+          <Note>
+            <track>5</track>
             <pitch>48</pitch>
             <tpc>14</tpc>
             </Note>
@@ -1612,10 +2224,22 @@ Arranged by Gary Sheppard</text>
       <Measure number="26">
         <Chord>
           <dots>1</dots>
-          <durationType>half</durationType>
-          <StemDirection>up</StemDirection>
+          <durationType>quarter</durationType>
           <Note>
-            <endSpanner id="8"/>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
             <pitch>55</pitch>
             <tpc>15</tpc>
             </Note>
@@ -1623,11 +2247,18 @@ Arranged by Gary Sheppard</text>
         <tick>36000</tick>
         <Chord>
           <track>5</track>
-          <dots>1</dots>
           <durationType>half</durationType>
           <Note>
             <track>5</track>
-            <endSpanner id="9"/>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>quarter</durationType>
+          <Note>
+            <track>5</track>
             <pitch>48</pitch>
             <tpc>14</tpc>
             </Note>
@@ -1635,27 +2266,34 @@ Arranged by Gary Sheppard</text>
         </Measure>
       <Measure number="27">
         <Chord>
-          <dots>1</dots>
           <durationType>half</durationType>
-          <StemDirection>up</StemDirection>
           <Note>
-            <Tie id="10">
-              <up>1</up>
-              </Tie>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <tick>37440</tick>
         <Chord>
           <track>5</track>
-          <dots>1</dots>
           <durationType>half</durationType>
           <Note>
             <track>5</track>
-            <Tie id="11">
-              <track>5</track>
-              </Tie>
+            <pitch>47</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>quarter</durationType>
+          <Note>
+            <track>5</track>
             <pitch>47</pitch>
             <tpc>19</tpc>
             </Note>
@@ -1663,23 +2301,22 @@ Arranged by Gary Sheppard</text>
         </Measure>
       <Measure number="28">
         <Chord>
-          <dots>1</dots>
           <durationType>half</durationType>
-          <StemDirection>up</StemDirection>
           <Note>
-            <endSpanner id="10"/>
             <pitch>54</pitch>
             <tpc>20</tpc>
             </Note>
           </Chord>
+        <Rest>
+          <offset x="0" y="2"/>
+          <durationType>quarter</durationType>
+          </Rest>
         <tick>38880</tick>
         <Chord>
           <track>5</track>
-          <dots>1</dots>
           <durationType>half</durationType>
           <Note>
             <track>5</track>
-            <endSpanner id="11"/>
             <pitch>47</pitch>
             <tpc>19</tpc>
             </Note>
@@ -1688,15 +2325,13 @@ Arranged by Gary Sheppard</text>
       <Measure number="29">
         <Chord>
           <durationType>half</durationType>
-          <StemDirection>up</StemDirection>
           <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
           <Note>
             <pitch>57</pitch>
             <tpc>17</tpc>
@@ -1717,26 +2352,47 @@ Arranged by Gary Sheppard</text>
           <durationType>quarter</durationType>
           <Note>
             <track>5</track>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="30">
         <Chord>
           <dots>1</dots>
-          <durationType>half</durationType>
-          <StemDirection>up</StemDirection>
+          <durationType>quarter</durationType>
           <Note>
             <pitch>59</pitch>
             <tpc>19</tpc>
             </Note>
           </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
         <tick>41760</tick>
         <Chord>
           <track>5</track>
-          <dots>1</dots>
           <durationType>half</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>quarter</durationType>
           <Note>
             <track>5</track>
             <pitch>55</pitch>
@@ -1746,13 +2402,15 @@ Arranged by Gary Sheppard</text>
         </Measure>
       <Measure number="31">
         <Chord>
-          <dots>1</dots>
           <durationType>half</durationType>
-          <StemDirection>up</StemDirection>
           <Note>
-            <Tie id="12">
-              <up>1</up>
-              </Tie>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
             <pitch>57</pitch>
             <tpc>17</tpc>
             </Note>
@@ -1760,13 +2418,18 @@ Arranged by Gary Sheppard</text>
         <tick>43200</tick>
         <Chord>
           <track>5</track>
-          <dots>1</dots>
           <durationType>half</durationType>
           <Note>
             <track>5</track>
-            <Tie id="13">
-              <track>5</track>
-              </Tie>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>quarter</durationType>
+          <Note>
+            <track>5</track>
             <pitch>50</pitch>
             <tpc>16</tpc>
             </Note>
@@ -1775,10 +2438,22 @@ Arranged by Gary Sheppard</text>
       <Measure number="32">
         <Chord>
           <dots>1</dots>
-          <durationType>half</durationType>
-          <StemDirection>up</StemDirection>
+          <durationType>quarter</durationType>
           <Note>
-            <endSpanner id="12"/>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
             <pitch>57</pitch>
             <tpc>17</tpc>
             </Note>
@@ -1786,11 +2461,18 @@ Arranged by Gary Sheppard</text>
         <tick>44640</tick>
         <Chord>
           <track>5</track>
-          <dots>1</dots>
           <durationType>half</durationType>
           <Note>
             <track>5</track>
-            <endSpanner id="13"/>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>quarter</durationType>
+          <Note>
+            <track>5</track>
             <pitch>50</pitch>
             <tpc>16</tpc>
             </Note>
@@ -1799,8 +2481,21 @@ Arranged by Gary Sheppard</text>
       <Measure number="33">
         <Chord>
           <dots>1</dots>
-          <durationType>half</durationType>
-          <StemDirection>up</StemDirection>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
           <Note>
             <pitch>55</pitch>
             <tpc>15</tpc>
@@ -1810,7 +2505,25 @@ Arranged by Gary Sheppard</text>
         <Chord>
           <track>5</track>
           <dots>1</dots>
-          <durationType>half</durationType>
+          <durationType>quarter</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>quarter</durationType>
           <Note>
             <track>5</track>
             <pitch>48</pitch>
@@ -1821,18 +2534,39 @@ Arranged by Gary Sheppard</text>
       <Measure number="34">
         <Chord>
           <dots>1</dots>
-          <durationType>half</durationType>
-          <StemDirection>up</StemDirection>
+          <durationType>quarter</durationType>
           <Note>
             <pitch>54</pitch>
             <tpc>20</tpc>
             </Note>
           </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
         <tick>47520</tick>
         <Chord>
           <track>5</track>
-          <dots>1</dots>
           <durationType>half</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>47</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>quarter</durationType>
           <Note>
             <track>5</track>
             <pitch>47</pitch>
@@ -1844,10 +2578,9 @@ Arranged by Gary Sheppard</text>
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
-          <StemDirection>up</StemDirection>
           <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <tick>48960</tick>
@@ -1866,16 +2599,13 @@ Arranged by Gary Sheppard</text>
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
-          <StemDirection>up</StemDirection>
           <Note>
+            <Tie id="5">
+              </Tie>
             <pitch>55</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         <tick>50400</tick>
         <Chord>
           <track>5</track>
@@ -1883,16 +2613,39 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <Note>
             <track>5</track>
+            <Tie id="6">
+              <track>5</track>
+              </Tie>
             <pitch>52</pitch>
             <tpc>18</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="37">
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <endSpanner id="5"/>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
         <Rest>
-          <durationType>measure</durationType>
-          <duration z="3" n="4"/>
+          <offset x="0" y="2"/>
+          <durationType>half</durationType>
           </Rest>
+        <tick>51840</tick>
+        <Chord>
+          <track>5</track>
+          <durationType>quarter</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <track>5</track>
+            <endSpanner id="6"/>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="38">
         <Rest>
@@ -1923,8 +2676,18 @@ Arranged by Gary Sheppard</text>
           <durationType>measure</durationType>
           <duration z="3" n="4"/>
           </Rest>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       <Measure number="43">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="3" n="4"/>
+          </Rest>
+        </Measure>
+      <Measure number="44">
         <Rest>
           <durationType>measure</durationType>
           <duration z="3" n="4"/>
@@ -1952,8 +2715,8 @@ Arranged by Gary Sheppard</text>
         <Chord>
           <durationType>half</durationType>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <tick>480</tick>
@@ -1963,8 +2726,8 @@ Arranged by Gary Sheppard</text>
           <StemDirection>up</StemDirection>
           <Note>
             <track>9</track>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -1973,6 +2736,18 @@ Arranged by Gary Sheppard</text>
           <dots>1</dots>
           <durationType>half</durationType>
           <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <tick>1440</tick>
+        <Chord>
+          <track>9</track>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <track>9</track>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
@@ -1986,8 +2761,8 @@ Arranged by Gary Sheppard</text>
         <Chord>
           <durationType>half</durationType>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <tick>3360</tick>
@@ -1997,8 +2772,8 @@ Arranged by Gary Sheppard</text>
           <StemDirection>up</StemDirection>
           <Note>
             <track>9</track>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -2007,30 +2782,18 @@ Arranged by Gary Sheppard</text>
           <dots>1</dots>
           <durationType>half</durationType>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <BarLine>
           <subtype>double</subtype>
           <span>2</span>
           </BarLine>
-        </Measure>
-      <Measure number="5">
-        <Rest>
-          <offset x="0" y="2"/>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Chord>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            </Note>
-          </Chord>
-        <tick>6240</tick>
+        <tick>4320</tick>
         <Chord>
           <track>9</track>
+          <dots>1</dots>
           <durationType>half</durationType>
           <StemDirection>up</StemDirection>
           <Note>
@@ -2040,11 +2803,47 @@ Arranged by Gary Sheppard</text>
             </Note>
           </Chord>
         </Measure>
+      <Measure number="5">
+        <Rest>
+          <offset x="0" y="2"/>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Chord>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <tick>6240</tick>
+        <Chord>
+          <track>9</track>
+          <durationType>half</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <track>9</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        </Measure>
       <Measure number="6">
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
           <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <tick>7200</tick>
+        <Chord>
+          <track>9</track>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <track>9</track>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
@@ -2190,7 +2989,7 @@ Arranged by Gary Sheppard</text>
           <dots>1</dots>
           <durationType>half</durationType>
           <Note>
-            <Tie id="14">
+            <Tie id="7">
               </Tie>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -2204,7 +3003,7 @@ Arranged by Gary Sheppard</text>
           <StemDirection>up</StemDirection>
           <Note>
             <track>9</track>
-            <Tie id="15">
+            <Tie id="8">
               <track>9</track>
               <up>2</up>
               </Tie>
@@ -2217,7 +3016,7 @@ Arranged by Gary Sheppard</text>
         <Chord>
           <durationType>half</durationType>
           <Note>
-            <endSpanner id="14"/>
+            <endSpanner id="7"/>
             <pitch>66</pitch>
             <tpc>20</tpc>
             </Note>
@@ -2236,7 +3035,7 @@ Arranged by Gary Sheppard</text>
           <StemDirection>up</StemDirection>
           <Note>
             <track>9</track>
-            <endSpanner id="15"/>
+            <endSpanner id="8"/>
             <pitch>62</pitch>
             <tpc>16</tpc>
             </Note>
@@ -2246,8 +3045,8 @@ Arranged by Gary Sheppard</text>
           <durationType>quarter</durationType>
           <Note>
             <track>9</track>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -2353,7 +3152,7 @@ Arranged by Gary Sheppard</text>
           <dots>1</dots>
           <durationType>half</durationType>
           <Note>
-            <Tie id="16">
+            <Tie id="9">
               </Tie>
             <pitch>74</pitch>
             <tpc>16</tpc>
@@ -2366,7 +3165,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <Note>
             <track>9</track>
-            <Tie id="17">
+            <Tie id="10">
               <track>9</track>
               </Tie>
             <pitch>71</pitch>
@@ -2379,7 +3178,7 @@ Arranged by Gary Sheppard</text>
           <dots>1</dots>
           <durationType>half</durationType>
           <Note>
-            <endSpanner id="16"/>
+            <endSpanner id="9"/>
             <pitch>74</pitch>
             <tpc>16</tpc>
             </Note>
@@ -2391,7 +3190,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <Note>
             <track>9</track>
-            <endSpanner id="17"/>
+            <endSpanner id="10"/>
             <pitch>71</pitch>
             <tpc>19</tpc>
             </Note>
@@ -2402,7 +3201,7 @@ Arranged by Gary Sheppard</text>
           <dots>1</dots>
           <durationType>half</durationType>
           <Note>
-            <Tie id="18">
+            <Tie id="11">
               </Tie>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -2415,7 +3214,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <Note>
             <track>9</track>
-            <Tie id="19">
+            <Tie id="12">
               <track>9</track>
               </Tie>
             <pitch>66</pitch>
@@ -2428,7 +3227,7 @@ Arranged by Gary Sheppard</text>
           <dots>1</dots>
           <durationType>half</durationType>
           <Note>
-            <endSpanner id="18"/>
+            <endSpanner id="11"/>
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
@@ -2440,7 +3239,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <Note>
             <track>9</track>
-            <endSpanner id="19"/>
+            <endSpanner id="12"/>
             <pitch>66</pitch>
             <tpc>20</tpc>
             </Note>
@@ -2451,7 +3250,7 @@ Arranged by Gary Sheppard</text>
           <dots>1</dots>
           <durationType>half</durationType>
           <Note>
-            <Tie id="20">
+            <Tie id="13">
               </Tie>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -2462,10 +3261,12 @@ Arranged by Gary Sheppard</text>
           <track>9</track>
           <dots>1</dots>
           <durationType>half</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
             <track>9</track>
-            <Tie id="21">
+            <Tie id="14">
               <track>9</track>
+              <up>2</up>
               </Tie>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2477,7 +3278,7 @@ Arranged by Gary Sheppard</text>
           <dots>1</dots>
           <durationType>half</durationType>
           <Note>
-            <endSpanner id="20"/>
+            <endSpanner id="13"/>
             <pitch>71</pitch>
             <tpc>19</tpc>
             </Note>
@@ -2487,9 +3288,10 @@ Arranged by Gary Sheppard</text>
           <track>9</track>
           <dots>1</dots>
           <durationType>half</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
             <track>9</track>
-            <endSpanner id="21"/>
+            <endSpanner id="14"/>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
@@ -2500,7 +3302,7 @@ Arranged by Gary Sheppard</text>
           <dots>1</dots>
           <durationType>half</durationType>
           <Note>
-            <Tie id="22">
+            <Tie id="15">
               </Tie>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -2511,14 +3313,16 @@ Arranged by Gary Sheppard</text>
           <track>9</track>
           <dots>1</dots>
           <durationType>half</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
             <track>9</track>
             <Accidental>
               <subtype>sharp</subtype>
               <track>9</track>
               </Accidental>
-            <Tie id="23">
+            <Tie id="16">
               <track>9</track>
+              <up>2</up>
               </Tie>
             <pitch>63</pitch>
             <tpc>23</tpc>
@@ -2530,7 +3334,7 @@ Arranged by Gary Sheppard</text>
           <dots>1</dots>
           <durationType>half</durationType>
           <Note>
-            <endSpanner id="22"/>
+            <endSpanner id="15"/>
             <pitch>71</pitch>
             <tpc>19</tpc>
             </Note>
@@ -2540,9 +3344,10 @@ Arranged by Gary Sheppard</text>
           <track>9</track>
           <dots>1</dots>
           <durationType>half</durationType>
+          <StemDirection>up</StemDirection>
           <Note>
             <track>9</track>
-            <endSpanner id="23"/>
+            <endSpanner id="16"/>
             <pitch>63</pitch>
             <tpc>23</tpc>
             </Note>
@@ -2550,38 +3355,23 @@ Arranged by Gary Sheppard</text>
         </Measure>
       <Measure number="29">
         <Chord>
+          <dots>1</dots>
           <durationType>half</durationType>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <Chord>
-          <durationType>quarter</durationType>
-          <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
         <tick>40320</tick>
         <Chord>
           <track>9</track>
+          <dots>1</dots>
           <durationType>half</durationType>
           <StemDirection>up</StemDirection>
           <Note>
             <track>9</track>
             <pitch>59</pitch>
             <tpc>19</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <durationType>quarter</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <track>9</track>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -2612,7 +3402,7 @@ Arranged by Gary Sheppard</text>
           <dots>1</dots>
           <durationType>half</durationType>
           <Note>
-            <Tie id="24">
+            <Tie id="17">
               </Tie>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -2626,7 +3416,7 @@ Arranged by Gary Sheppard</text>
           <StemDirection>up</StemDirection>
           <Note>
             <track>9</track>
-            <Tie id="25">
+            <Tie id="18">
               <track>9</track>
               <up>2</up>
               </Tie>
@@ -2637,10 +3427,16 @@ Arranged by Gary Sheppard</text>
         </Measure>
       <Measure number="32">
         <Chord>
-          <dots>1</dots>
           <durationType>half</durationType>
           <Note>
-            <endSpanner id="24"/>
+            <endSpanner id="17"/>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
@@ -2648,12 +3444,21 @@ Arranged by Gary Sheppard</text>
         <tick>44640</tick>
         <Chord>
           <track>9</track>
-          <dots>1</dots>
           <durationType>half</durationType>
           <StemDirection>up</StemDirection>
           <Note>
             <track>9</track>
-            <endSpanner id="25"/>
+            <endSpanner id="18"/>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>9</track>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <track>9</track>
             <pitch>66</pitch>
             <tpc>20</tpc>
             </Note>
@@ -2708,12 +3513,43 @@ Arranged by Gary Sheppard</text>
           </Chord>
         </Measure>
       <Measure number="35">
+        <Rest>
+          <offset x="0" y="2"/>
+          <durationType>quarter</durationType>
+          </Rest>
         <Chord>
-          <dots>1</dots>
-          <durationType>half</durationType>
+          <durationType>quarter</durationType>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <tick>49440</tick>
+        <Chord>
+          <track>9</track>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <track>9</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>9</track>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <track>9</track>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -2722,60 +3558,282 @@ Arranged by Gary Sheppard</text>
           <dots>1</dots>
           <durationType>half</durationType>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <tick>50400</tick>
+        <Chord>
+          <track>9</track>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <track>9</track>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="37">
+        <Rest>
+          <offset x="0" y="2"/>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <tick>52320</tick>
+        <Chord>
+          <track>9</track>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <track>9</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>9</track>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <track>9</track>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="38">
+        <Chord>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <tick>53280</tick>
+        <Chord>
+          <track>9</track>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <track>9</track>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="39">
+        <Rest>
+          <offset x="0" y="2"/>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <tick>55200</tick>
+        <Chord>
+          <track>9</track>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <track>9</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>9</track>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <track>9</track>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="40">
+        <Chord>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <tick>56160</tick>
+        <Chord>
+          <track>9</track>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <track>9</track>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="41">
+        <Rest>
+          <offset x="0" y="2"/>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <tick>58080</tick>
+        <Chord>
+          <track>9</track>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <track>9</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>9</track>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <track>9</track>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="42">
+        <Chord>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <BarLine>
           <subtype>double</subtype>
           <span>2</span>
           </BarLine>
-        </Measure>
-      <Measure number="37">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="3" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="38">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="3" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="39">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="3" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="40">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="3" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="41">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="3" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="42">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="3" n="4"/>
-          </Rest>
+        <tick>59040</tick>
+        <Chord>
+          <track>9</track>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <track>9</track>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="43">
         <Rest>
-          <durationType>measure</durationType>
-          <duration z="3" n="4"/>
+          <offset x="0" y="2"/>
+          <durationType>quarter</durationType>
           </Rest>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <tick>60960</tick>
+        <Chord>
+          <track>9</track>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <track>9</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>9</track>
+          <durationType>quarter</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <track>9</track>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="44">
+        <Chord>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
         <BarLine>
           <subtype>end</subtype>
           <span>2</span>
           </BarLine>
+        <tick>61920</tick>
+        <Chord>
+          <track>9</track>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <track>9</track>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
         </Measure>
       </Staff>
     <Staff id="4">
@@ -2795,7 +3853,7 @@ Arranged by Gary Sheppard</text>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <Tie id="26">
+            <Tie id="19">
               </Tie>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2804,7 +3862,7 @@ Arranged by Gary Sheppard</text>
         <Chord>
           <durationType>half</durationType>
           <Note>
-            <endSpanner id="26"/>
+            <endSpanner id="19"/>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
@@ -2816,7 +3874,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <Note>
             <track>13</track>
-            <Tie id="27">
+            <Tie id="20">
               <track>13</track>
               </Tie>
             <pitch>52</pitch>
@@ -2840,7 +3898,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <Note>
             <track>13</track>
-            <endSpanner id="27"/>
+            <endSpanner id="20"/>
             <pitch>52</pitch>
             <tpc>18</tpc>
             </Note>
@@ -2854,7 +3912,7 @@ Arranged by Gary Sheppard</text>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <Tie id="28">
+            <Tie id="21">
               </Tie>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2863,7 +3921,7 @@ Arranged by Gary Sheppard</text>
         <Chord>
           <durationType>half</durationType>
           <Note>
-            <endSpanner id="28"/>
+            <endSpanner id="21"/>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
@@ -2875,7 +3933,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <Note>
             <track>13</track>
-            <Tie id="29">
+            <Tie id="22">
               <track>13</track>
               </Tie>
             <pitch>52</pitch>
@@ -2899,7 +3957,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <Note>
             <track>13</track>
-            <endSpanner id="29"/>
+            <endSpanner id="22"/>
             <pitch>52</pitch>
             <tpc>18</tpc>
             </Note>
@@ -2913,7 +3971,7 @@ Arranged by Gary Sheppard</text>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <Tie id="30">
+            <Tie id="23">
               </Tie>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2922,7 +3980,7 @@ Arranged by Gary Sheppard</text>
         <Chord>
           <durationType>half</durationType>
           <Note>
-            <endSpanner id="30"/>
+            <endSpanner id="23"/>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
@@ -2934,7 +3992,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <Note>
             <track>13</track>
-            <Tie id="31">
+            <Tie id="24">
               <track>13</track>
               </Tie>
             <pitch>52</pitch>
@@ -2958,7 +4016,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <Note>
             <track>13</track>
-            <endSpanner id="31"/>
+            <endSpanner id="24"/>
             <pitch>52</pitch>
             <tpc>18</tpc>
             </Note>
@@ -2972,7 +4030,7 @@ Arranged by Gary Sheppard</text>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <Tie id="32">
+            <Tie id="25">
               </Tie>
             <pitch>62</pitch>
             <tpc>16</tpc>
@@ -2981,7 +4039,7 @@ Arranged by Gary Sheppard</text>
         <Chord>
           <durationType>half</durationType>
           <Note>
-            <endSpanner id="32"/>
+            <endSpanner id="25"/>
             <pitch>62</pitch>
             <tpc>16</tpc>
             </Note>
@@ -2993,7 +4051,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <Note>
             <track>13</track>
-            <Tie id="33">
+            <Tie id="26">
               <track>13</track>
               </Tie>
             <pitch>50</pitch>
@@ -3017,7 +4075,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <Note>
             <track>13</track>
-            <endSpanner id="33"/>
+            <endSpanner id="26"/>
             <pitch>50</pitch>
             <tpc>16</tpc>
             </Note>
@@ -3031,7 +4089,7 @@ Arranged by Gary Sheppard</text>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <Tie id="34">
+            <Tie id="27">
               </Tie>
             <pitch>60</pitch>
             <tpc>14</tpc>
@@ -3040,7 +4098,7 @@ Arranged by Gary Sheppard</text>
         <Chord>
           <durationType>half</durationType>
           <Note>
-            <endSpanner id="34"/>
+            <endSpanner id="27"/>
             <pitch>60</pitch>
             <tpc>14</tpc>
             </Note>
@@ -3052,7 +4110,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <Note>
             <track>13</track>
-            <Tie id="35">
+            <Tie id="28">
               <track>13</track>
               </Tie>
             <pitch>48</pitch>
@@ -3076,7 +4134,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <Note>
             <track>13</track>
-            <endSpanner id="35"/>
+            <endSpanner id="28"/>
             <pitch>48</pitch>
             <tpc>14</tpc>
             </Note>
@@ -3090,7 +4148,7 @@ Arranged by Gary Sheppard</text>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <Tie id="36">
+            <Tie id="29">
               </Tie>
             <pitch>59</pitch>
             <tpc>19</tpc>
@@ -3099,7 +4157,7 @@ Arranged by Gary Sheppard</text>
         <Chord>
           <durationType>half</durationType>
           <Note>
-            <endSpanner id="36"/>
+            <endSpanner id="29"/>
             <pitch>59</pitch>
             <tpc>19</tpc>
             </Note>
@@ -3111,7 +4169,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <Note>
             <track>13</track>
-            <Tie id="37">
+            <Tie id="30">
               <track>13</track>
               </Tie>
             <pitch>47</pitch>
@@ -3135,7 +4193,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <Note>
             <track>13</track>
-            <endSpanner id="37"/>
+            <endSpanner id="30"/>
             <pitch>47</pitch>
             <tpc>19</tpc>
             </Note>
@@ -3206,7 +4264,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <Tie id="38">
+            <Tie id="31">
               <up>1</up>
               </Tie>
             <pitch>57</pitch>
@@ -3220,7 +4278,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <Note>
             <track>13</track>
-            <Tie id="39">
+            <Tie id="32">
               <track>13</track>
               </Tie>
             <pitch>50</pitch>
@@ -3233,7 +4291,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <endSpanner id="38"/>
+            <endSpanner id="31"/>
             <pitch>57</pitch>
             <tpc>17</tpc>
             </Note>
@@ -3252,7 +4310,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <Note>
             <track>13</track>
-            <endSpanner id="39"/>
+            <endSpanner id="32"/>
             <pitch>50</pitch>
             <tpc>16</tpc>
             </Note>
@@ -3262,8 +4320,12 @@ Arranged by Gary Sheppard</text>
           <durationType>quarter</durationType>
           <Note>
             <track>13</track>
-            <pitch>50</pitch>
-            <tpc>16</tpc>
+            <Accidental>
+              <subtype>sharp</subtype>
+              <track>13</track>
+              </Accidental>
+            <pitch>51</pitch>
+            <tpc>23</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -3329,7 +4391,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <Tie id="40">
+            <Tie id="33">
               <up>1</up>
               </Tie>
             <pitch>59</pitch>
@@ -3343,7 +4405,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <Note>
             <track>13</track>
-            <Tie id="41">
+            <Tie id="34">
               <track>13</track>
               </Tie>
             <pitch>55</pitch>
@@ -3357,7 +4419,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <endSpanner id="40"/>
+            <endSpanner id="33"/>
             <pitch>59</pitch>
             <tpc>19</tpc>
             </Note>
@@ -3369,7 +4431,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <Note>
             <track>13</track>
-            <endSpanner id="41"/>
+            <endSpanner id="34"/>
             <pitch>55</pitch>
             <tpc>15</tpc>
             </Note>
@@ -3381,7 +4443,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <Tie id="42">
+            <Tie id="35">
               <up>1</up>
               </Tie>
             <pitch>57</pitch>
@@ -3395,7 +4457,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <Note>
             <track>13</track>
-            <Tie id="43">
+            <Tie id="36">
               <track>13</track>
               </Tie>
             <pitch>50</pitch>
@@ -3409,7 +4471,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <endSpanner id="42"/>
+            <endSpanner id="35"/>
             <pitch>57</pitch>
             <tpc>17</tpc>
             </Note>
@@ -3421,7 +4483,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <Note>
             <track>13</track>
-            <endSpanner id="43"/>
+            <endSpanner id="36"/>
             <pitch>50</pitch>
             <tpc>16</tpc>
             </Note>
@@ -3433,7 +4495,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <Tie id="44">
+            <Tie id="37">
               <up>1</up>
               </Tie>
             <pitch>55</pitch>
@@ -3447,7 +4509,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <Note>
             <track>13</track>
-            <Tie id="45">
+            <Tie id="38">
               <track>13</track>
               </Tie>
             <pitch>48</pitch>
@@ -3461,7 +4523,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <endSpanner id="44"/>
+            <endSpanner id="37"/>
             <pitch>55</pitch>
             <tpc>15</tpc>
             </Note>
@@ -3473,7 +4535,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <Note>
             <track>13</track>
-            <endSpanner id="45"/>
+            <endSpanner id="38"/>
             <pitch>48</pitch>
             <tpc>14</tpc>
             </Note>
@@ -3485,7 +4547,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <Tie id="46">
+            <Tie id="39">
               <up>1</up>
               </Tie>
             <pitch>54</pitch>
@@ -3499,7 +4561,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <Note>
             <track>13</track>
-            <Tie id="47">
+            <Tie id="40">
               <track>13</track>
               </Tie>
             <pitch>47</pitch>
@@ -3513,7 +4575,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <endSpanner id="46"/>
+            <endSpanner id="39"/>
             <pitch>54</pitch>
             <tpc>20</tpc>
             </Note>
@@ -3525,7 +4587,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <Note>
             <track>13</track>
-            <endSpanner id="47"/>
+            <endSpanner id="40"/>
             <pitch>47</pitch>
             <tpc>19</tpc>
             </Note>
@@ -3533,6 +4595,7 @@ Arranged by Gary Sheppard</text>
         </Measure>
       <Measure number="29">
         <Chord>
+          <dots>1</dots>
           <durationType>half</durationType>
           <StemDirection>down</StemDirection>
           <Note>
@@ -3540,31 +4603,15 @@ Arranged by Gary Sheppard</text>
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <Chord>
-          <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
         <tick>40320</tick>
         <Chord>
           <track>13</track>
+          <dots>1</dots>
           <durationType>half</durationType>
           <Note>
             <track>13</track>
             <pitch>52</pitch>
             <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>13</track>
-          <durationType>quarter</durationType>
-          <Note>
-            <track>13</track>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -3596,7 +4643,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <Tie id="48">
+            <Tie id="41">
               <up>1</up>
               </Tie>
             <pitch>57</pitch>
@@ -3610,7 +4657,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <Note>
             <track>13</track>
-            <Tie id="49">
+            <Tie id="42">
               <track>13</track>
               </Tie>
             <pitch>50</pitch>
@@ -3620,11 +4667,18 @@ Arranged by Gary Sheppard</text>
         </Measure>
       <Measure number="32">
         <Chord>
-          <dots>1</dots>
           <durationType>half</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <endSpanner id="48"/>
+            <endSpanner id="41"/>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
             <pitch>57</pitch>
             <tpc>17</tpc>
             </Note>
@@ -3632,13 +4686,25 @@ Arranged by Gary Sheppard</text>
         <tick>44640</tick>
         <Chord>
           <track>13</track>
-          <dots>1</dots>
           <durationType>half</durationType>
           <Note>
             <track>13</track>
-            <endSpanner id="49"/>
+            <endSpanner id="42"/>
             <pitch>50</pitch>
             <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>13</track>
+          <durationType>quarter</durationType>
+          <Note>
+            <track>13</track>
+            <Accidental>
+              <subtype>sharp</subtype>
+              <track>13</track>
+              </Accidental>
+            <pitch>51</pitch>
+            <tpc>23</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -3687,13 +4753,26 @@ Arranged by Gary Sheppard</text>
           </Chord>
         </Measure>
       <Measure number="35">
+        <Rest>
+          <offset x="0" y="-2"/>
+          <durationType>eighth</durationType>
+          </Rest>
         <Chord>
-          <dots>1</dots>
-          <durationType>half</durationType>
-          <StemDirection>down</StemDirection>
+          <durationType>eighth</durationType>
           <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
+            <Tie id="43">
+              <up>1</up>
+              </Tie>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>half</durationType>
+          <Note>
+            <endSpanner id="43"/>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <tick>48960</tick>
@@ -3703,6 +4782,9 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <Note>
             <track>13</track>
+            <Tie id="44">
+              <track>13</track>
+              </Tie>
             <pitch>52</pitch>
             <tpc>18</tpc>
             </Note>
@@ -3712,10 +4794,9 @@ Arranged by Gary Sheppard</text>
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
-          <StemDirection>down</StemDirection>
           <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <tick>50400</tick>
@@ -3725,6 +4806,7 @@ Arranged by Gary Sheppard</text>
           <durationType>half</durationType>
           <Note>
             <track>13</track>
+            <endSpanner id="44"/>
             <pitch>52</pitch>
             <tpc>18</tpc>
             </Note>
@@ -3732,45 +4814,243 @@ Arranged by Gary Sheppard</text>
         </Measure>
       <Measure number="37">
         <Rest>
-          <durationType>measure</durationType>
-          <duration z="3" n="4"/>
+          <offset x="0" y="-2"/>
+          <durationType>eighth</durationType>
           </Rest>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <Tie id="45">
+              <up>1</up>
+              </Tie>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>half</durationType>
+          <Note>
+            <endSpanner id="45"/>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <tick>51840</tick>
+        <Chord>
+          <track>13</track>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <track>13</track>
+            <Tie id="46">
+              <track>13</track>
+              </Tie>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="38">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="3" n="4"/>
-          </Rest>
+        <Chord>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <tick>53280</tick>
+        <Chord>
+          <track>13</track>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <track>13</track>
+            <endSpanner id="46"/>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="39">
         <Rest>
-          <durationType>measure</durationType>
-          <duration z="3" n="4"/>
+          <offset x="0" y="-2"/>
+          <durationType>eighth</durationType>
           </Rest>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <Tie id="47">
+              <up>1</up>
+              </Tie>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>half</durationType>
+          <Note>
+            <endSpanner id="47"/>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <tick>54720</tick>
+        <Chord>
+          <track>13</track>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <track>13</track>
+            <Tie id="48">
+              <track>13</track>
+              </Tie>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="40">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="3" n="4"/>
-          </Rest>
+        <Chord>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <tick>56160</tick>
+        <Chord>
+          <track>13</track>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <track>13</track>
+            <endSpanner id="48"/>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="41">
         <Rest>
-          <durationType>measure</durationType>
-          <duration z="3" n="4"/>
+          <offset x="0" y="-2"/>
+          <durationType>eighth</durationType>
           </Rest>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <Tie id="49">
+              <up>1</up>
+              </Tie>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>half</durationType>
+          <Note>
+            <endSpanner id="49"/>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <tick>57600</tick>
+        <Chord>
+          <track>13</track>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <track>13</track>
+            <Tie id="50">
+              <track>13</track>
+              </Tie>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="42">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="3" n="4"/>
-          </Rest>
+        <Chord>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <tick>59040</tick>
+        <Chord>
+          <track>13</track>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <track>13</track>
+            <endSpanner id="50"/>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="43">
         <Rest>
-          <durationType>measure</durationType>
-          <duration z="3" n="4"/>
+          <offset x="0" y="-2"/>
+          <durationType>eighth</durationType>
           </Rest>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <Tie id="51">
+              <up>1</up>
+              </Tie>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>half</durationType>
+          <Note>
+            <endSpanner id="51"/>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <tick>60480</tick>
+        <Chord>
+          <track>13</track>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <track>13</track>
+            <Tie id="52">
+              <track>13</track>
+              </Tie>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="44">
+        <Chord>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <tick>61920</tick>
+        <Chord>
+          <track>13</track>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <track>13</track>
+            <endSpanner id="52"/>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
         </Measure>
       </Staff>
     </Score>
